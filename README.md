@@ -1,3 +1,8 @@
+# THIS REPOSITORY HAS BEEN MOVED!
+
+FIND THE LATEST SOURCE CODEBASE [HERE](https://github.com/ATCode-Solutions/python-shell).
+
+
 # Python Shell Wrapper Library
 
 A flexible, easy-to-use library to integrate your Python script with Unix ecosystems.
